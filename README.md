@@ -31,6 +31,16 @@ unzip template.zip -d $YOUR_DIR
 cd $YOUR_DIR
 ```
 
+## .gitignore
+You will probobly want a `.gitignore` file. If you do not already
+have one, checkout Github's own [gitignore](https://github.com/github/gitignore)
+repo which has a large collection of `.gitignore` templates.
+
+For example, downloading a Python `.gitignore` is as easy as:
+```bash
+wget https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore -O .gitignore
+```
+
 ## Contributing
 For detailed information, please view our
 [contribution guidelines](.github/CONTRIBUTING.md).
