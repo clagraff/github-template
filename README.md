@@ -16,7 +16,9 @@ This repo contains:
 * [.github/](.github/) which contains project-specific files
     * [logo](.github/logo.png) which represents the project
     * [pull request tempalte](.github/PULL_REQUEST_TEMPLATE.md) for helping users creating PRs.
-    * [issue template](.github/ISSUE_TEMPLATE.md) for helping users creating new issues.
+    * [issue templates/](.github/ISSUE_TEMPLATE/) which contains issue templates
+        * [bug report](.github/ISSUE_TEMPLATE/bug_report.md) for helping users creating new bug reports.
+        * [feature request](.github/ISSUE_TEMPLATE/feature_request.md) for helping users requesting new features.
     * [code of conduct](.github/CODE_OF_CONDUCT.md) describing the projects CoC.
     * [contributing guidelines](.github/CONTRIBUTING.md) for helping people contribute.
 * [readme](README.md) which you should override with project-specific details.
