@@ -1,8 +1,11 @@
-![](.github/gowebauth.png)
+<!-- Have a nice logo. 500px x 150px suggested -->
+![project logo](.github/logo.png)
 
+<!-- Include relevant build badges -->
 [![License](.github/unlicense.svg)](https://unlicense.org/)
 
 # Github Template
+<!-- Short description of the project -->
 This repo is a template for quick-starting new Github repos.
 
 It includes some issue and pull request templates, and a structured README.
