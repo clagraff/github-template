@@ -47,6 +47,9 @@ For detailed information, please view our
 
 We are always open to new issues or pull requests.
 
+In the interest of fostering an open and welcoming environment, we hold
+our contributors to a [code of conduct](.github/CODE_OF_CONDUCT.md).
+
 # License
 This is free and unencumbered software released into the public domain.
 
