@@ -8,19 +8,22 @@
 <!-- Short description of the project -->
 This repo is a template for quick-starting new Github repos.
 
-It includes some issue and pull request templates, and a structured README.
 
 ## About
 This repo contains:
 
-* `.github/logo.png` which is a logo for the repo.
-* `.github/PULL_REQUEST_TEMPLATE.md` which is a template for new PRs.
-* `.github/ISSUE_TEMPLATE.md` which is a template for new issues.
-* `README.md` which provides an example README.
-* `LICENSE.md` which you should override with your project's license.
+* [logo](.github/logo.png) which represents the project
+* [pull request tempalte](.github/PULL_REQUEST_TEMPLATE.md) for helping users creating PRs.
+* [issue template](.github/ISSUE_TEMPLATE.md) for helping users creating new issues.
+* [readme](README.md) which you should override with project-specific details.
+* [license](LICENSE.md) which you should override with your project's license.
+
+The idea is you can download and use this template as a starter for any new
+repos, saving you from having to duplicate effort across projects.
 
 ## Quickstart
-Download the latest version and get moving!
+Download the latest version of the template, unzip it, and copy it into your
+empty project directory.
 
 ```bash
 wget https://github.com/clagraff/github-template/zipball/master/ -O template.zip
