@@ -3,6 +3,7 @@
 
 <!-- Include relevant build badges -->
 [![License](.github/unlicense.svg)](https://unlicense.org/)
+[![Download master](https://img.shields.io/badge/download-master-brightgreen.svg)](https://github.com/clagraff/github-template/zipball/master/)
 
 # Github Template
 <!-- Short description of the project -->
