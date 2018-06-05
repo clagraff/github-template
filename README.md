@@ -1,21 +1,24 @@
 <!-- Have a nice logo. 500px x 150px suggested -->
 ![project logo](.github/logo.png)
 
-<!-- Include relevant build badges -->
-[![License](.github/unlicense.svg)](https://unlicense.org/)
+<!-- Include relevant build badges for your repo. -->
+[![License](https://img.shields.io/badge/license-unlicense-ff69b4.svg)](https://unlicense.org/)
 [![Download master](https://img.shields.io/badge/download-master-brightgreen.svg)](https://github.com/clagraff/github-template/zipball/master/)
 
 # Github Template
-<!-- Short description of the project -->
+<!-- Short description of the project. Keep it simple and clear. -->
 This repo is a template for quick-starting new Github repos.
 
-
 ## About
+<!-- More detailed description of the project and its purpose. -->
 This repo contains:
 
-* [logo](.github/logo.png) which represents the project
-* [pull request tempalte](.github/PULL_REQUEST_TEMPLATE.md) for helping users creating PRs.
-* [issue template](.github/ISSUE_TEMPLATE.md) for helping users creating new issues.
+* [.github/](.github/) which contains project-specific files
+    * [logo](.github/logo.png) which represents the project
+    * [pull request tempalte](.github/PULL_REQUEST_TEMPLATE.md) for helping users creating PRs.
+    * [issue template](.github/ISSUE_TEMPLATE.md) for helping users creating new issues.
+    * [code of conduct](.github/CODE_OF_CONDUCT.md) describing the projects CoC.
+    * [contributing guidelines](.github/CONTRIBUTING.md) for helping people contribute.
 * [readme](README.md) which you should override with project-specific details.
 * [license](LICENSE.md) which you should override with your project's license.
 
@@ -23,6 +26,7 @@ The idea is you can download and use this template as a starter for any new
 repos, saving you from having to duplicate effort across projects.
 
 ## Quickstart
+<!-- Describe minimal steps required to use the project. -->
 Download the latest version of the template, unzip it, and copy it into your
 empty project directory.
 
@@ -43,6 +47,7 @@ wget https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore 
 ```
 
 ## Contributing
+<!-- Provide basic info on how users can contribute to your project. -->
 For detailed information, please view our
 [contribution guidelines](.github/CONTRIBUTING.md).
 
@@ -52,6 +57,7 @@ In the interest of fostering an open and welcoming environment, we hold
 our contributors to a [code of conduct](.github/CODE_OF_CONDUCT.md).
 
 # License
+<!-- Include the appropriate license information here. -->
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
